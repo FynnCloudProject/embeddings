@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sentence-transformers
+Pillow
+einops
+requests
+timm
